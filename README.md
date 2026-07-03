@@ -7,8 +7,7 @@ O curso aborda os conceitos fundamentais de programação, cobrindo desde a lóg
 
 ## 🛠️ Tecnologias e Ferramentas
 - Java SE (JDK 11 ou 17)
-- Greenfoot / Alice (se aplicável)
-- Eclipse, NetBeans ou IntelliJ IDEA (coloque a IDE que você usou)
+- Eclipse, NetBeans e IntelliJ IDEA.
 
 ## 📚 Conteúdo Desenvolvido
 - **Lógica e Sintaxe:** Estruturas de controle de fluxo, loops e arrays.
